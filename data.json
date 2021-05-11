@@ -1,0 +1,142 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": " Random Quote Generator",
+      "description": "Goal of this project is to create an app that displays random famous quotes each time a button is clicked and also change background colors.",
+      "technologies": ["JavaScript", "HTML", "CSS", "VS Code", "Git", "GitHub"],
+      "live_link": "https://www.joelogunremi.com/portfolio-projects/randomquotegenerator-project.html",
+      "github_link": "https://github.com/JoelOgun/Random-Quote-Generator-",
+      "image_urls": [
+        {
+          "src": "/public/images/RandomQuote1Photo1200x550.png",
+          "alt": "photo of see it through quote"
+        },
+        {
+          "src": "/public/images/RandomQuote2Photo1200x550.png",
+          "alt": "photo of happiness quote"
+        }
+      ],
+      "main_image": {
+        "src": "/public/images/RandomQuoteMainPage550x350.png",
+        "alt": "photo of main page of Random Quote Project"
+      }
+    },
+    {
+      "id": 1,
+      "project_name": "Data Pagination And Filtering",
+      "description": "Goal Of This Project Is To Display The Correct Number Of Students On The Page Whenever The Pagination Button Is Clicked And The 'Active' Class Name Is Added To The Most Recently Clicked Pagination Button, And Is Never Present On More Than One Button At Any Given Time. The Right Amount Of Pagination Button Is Displayed At The Bottom Of The Page",
+      "technologies": ["JavaScript", "HTML", "CSS", "VS Code", "Git", "GitHub"],
+      "live_link": "https://www.joelogunremi.com/subsites/studentdatapagination-viewsite/index.html",
+      "github_link": "https://github.com/JoelOgun/Data-Pagination-and-Filtering",
+      "image_urls": [
+        {
+          "src": "/public/images/StudentlistThirdPage1200x550.png",
+          "alt": "a photo of third page in the project "
+        }
+      ],
+      "main_image": {
+        "src": "/public/images/StudentDataPaginationProject550x350.png",
+        "alt": "a photo of main page of the Student Data Pagination Project"
+      }
+    },
+    {
+      "id": 2,
+      "project_name": "Interactive Form",
+      "description": "Created An Interactive Registration Form For A Conference. With Supplied HTML And CSS Files, I Used JS To Add Interactivity And Display Error Messages. Skills Practiced: Form Validation Sending Errors To User Disabling Features Using Regex To Check Email, Credit Card, Zipcode Inputs",
+      "technologies": ["JavaScript", "HTML", "CSS", "VS Code", "Git", "GitHub"],
+      "live_link": "https://www.joelogunremi.com/subsites/interactiveformvalid-viewsite/index.html",
+      "github_link": "https://github.com/JoelOgun/Interactive-Form-TechDegree",
+      "image_urls": [
+        {
+          "src": "/public/images/FormActivity1200x550.png",
+          "alt": "Form Activity Error"
+        },
+        {
+          "src": "/public/images/FormTopError1200x550.png",
+          "alt": "Email Address Error "
+        },
+        {
+          "src": "/public/images/PaymentError1200x550.png",
+          "alt": "Payment Error"
+        }
+      ],
+      "main_image": {
+        "src": "/public/images/InteractiveFormimg550x350.png",
+        "alt": "Photo of Interactive Form"
+      }
+    },
+    {
+      "id": 3,
+      "project_name": "OOP Game Show APP",
+      "description": "In this project, I created a browser-based, word guessing game.  I used JavaScript and OOP (Object-Oriented Programming) to select a random, hidden phrase which a player tries to guess by clicking letters on an onscreen keyboard.",
+      "technologies": [
+        "JavaScript",
+        "Object-Oriented Programming",
+        "HTML",
+        "CSS",
+        "VS Code",
+        "Git",
+        "GitHub"
+      ],
+      "live_link": "https://www.joelogunremi.com/index.html#portfolio-section",
+      "github_link": "https://github.com/JoelOgun/OOP-Game-Show-App",
+      "image_urls": [
+        {
+          "src": "/public/images/OOPGameGuessingFeature1200x550.png",
+          "alt": "Guessing game with only one heart left"
+        },
+        {
+          "src": "/public/images/OOPGameWinnerMsg1200x550.png",
+          "alt": "Message for when you win the game "
+        },
+        {
+          "src": "/public/images/OOPGameLostGameMsg1200x550.png",
+          "alt": "Message for when you lose the game"
+        }
+      ],
+      "main_image": {
+        "src": "/public/images/OOPGame550x350.png",
+        "alt": "Start of the Game App"
+      }
+    },
+    {
+      "id": 4,
+      "project_name": "Startup Employee Directory",
+      "description": "For this project, I built an app for a fictional company.  The app diplays employee contact information in an employee directory",
+      "technologies": [
+        "JavaScript",
+        "Random User Generator API",
+        "HTML",
+        "CSS",
+        "VS Code",
+        "Git",
+        "GitHub"
+      ],
+      "live_link": "https://www.joelogunremi.com/index.html#portfolio-section",
+      "github_link": "https://github.com/JoelOgun/Awesome-Startup-Public-API-Project",
+      "image_urls": [
+        {
+          "src": "/public/images/StartupCompanyFranciscoInfo1200x550.png",
+          "alt": "Picture of Francisco Info"
+        },
+        {
+          "src": "/public/images/StartupCompanyJessicaMooreInfo1200x550.png",
+          "alt": "a photo of Jessica Info "
+        },
+        {
+          "src": "/public/images/StartupCompanyFiltering1200x550.png",
+          "alt": "Searching for Employees with G in their name"
+        },
+        {
+          "src": "/public/images/StartupCompanyNoMatch1200x550.png",
+          "alt": "a photo when there is no match"
+        }
+      ],
+      "main_image": {
+        "src": "/public/images/StartupCompanyMain550x350.png",
+        "alt": "a photo of the employees directory"
+      }
+    }
+  ]
+}
