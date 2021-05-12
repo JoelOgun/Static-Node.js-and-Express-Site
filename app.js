@@ -21,6 +21,12 @@ app.get("/about", (req, res) => {
   res.render("about");
 });
 
+app.get("/projects/:id", (req, res, next) => {
+  // id is a variable and render different projects
+  const projectId = req.params.id;
+  res.render("project", { project: projects[projectId] });
+});
+
 app.listen(port, () => {
-  console.log("The application is running on localhost:3000!");
+  console.log("The application is listening on localhost:3000!");
 });
