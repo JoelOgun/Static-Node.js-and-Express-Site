@@ -36,7 +36,7 @@ block content
       
       each image in project.image_urls
 
-          img.project-img(src=`${image}` alt=`image of ${project.project_name}`) 
+          img.project-img(src=`${image.src}` alt=`image of ${image.alt}`) 
 
     nav.nav
       a(href='/')
