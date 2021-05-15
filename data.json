@@ -9,16 +9,16 @@
       "github_link": "https://github.com/JoelOgun/Random-Quote-Generator-",
       "image_urls": [
         {
-          "src": "/public/images/RandomQuote1Photo1200x550.png",
+          "src": "/static/images/RandomQuote1Photo1200x550.png",
           "alt": "photo of see it through quote"
         },
         {
-          "src": "/public/images/RandomQuote2Photo1200x550.png",
+          "src": "/static/images/RandomQuote2Photo1200x550.png",
           "alt": "photo of happiness quote"
         }
       ],
       "main_image": {
-        "src": "/public/images/RandomQuoteMainPage550x350.png",
+        "src": "/static/images/RandomQuoteMainPage550x350.png",
         "alt": "photo of main page of Random Quote Project"
       }
     },
@@ -31,12 +31,12 @@
       "github_link": "https://github.com/JoelOgun/Data-Pagination-and-Filtering",
       "image_urls": [
         {
-          "src": "/public/images/StudentlistThirdPage1200x550.png",
+          "src": "/static/images/StudentlistThirdPage1200x550.png",
           "alt": "a photo of third page in the project "
         }
       ],
       "main_image": {
-        "src": "/public/images/StudentDataPaginationProject550x350.png",
+        "src": "/static/images/StudentDataPaginationProject550x350.png",
         "alt": "a photo of main page of the Student Data Pagination Project"
       }
     },
@@ -49,20 +49,20 @@
       "github_link": "https://github.com/JoelOgun/Interactive-Form-TechDegree",
       "image_urls": [
         {
-          "src": "/public/images/FormActivity1200x550.png",
+          "src": "/static/images/FormActivity1200x550.png",
           "alt": "Form Activity Error"
         },
         {
-          "src": "/public/images/FormTopError1200x550.png",
+          "src": "/static/images/FormTopError1200x550.png",
           "alt": "Email Address Error "
         },
         {
-          "src": "/public/images/PaymentError1200x550.png",
+          "src": "/static/images/PaymentError1200x550.png",
           "alt": "Payment Error"
         }
       ],
       "main_image": {
-        "src": "/public/images/InteractiveFormimg550x350.png",
+        "src": "/static/images/InteractiveFormimg550x350.png",
         "alt": "Photo of Interactive Form"
       }
     },
@@ -83,20 +83,20 @@
       "github_link": "https://github.com/JoelOgun/OOP-Game-Show-App",
       "image_urls": [
         {
-          "src": "/public/images/OOPGameGuessingFeature1200x550.png",
+          "src": "/static/images/OOPGameGuessingFeature1200x550.png",
           "alt": "Guessing game with only one heart left"
         },
         {
-          "src": "/public/images/OOPGameWinnerMsg1200x550.png",
+          "src": "/static/images/OOPGameWinnerMsg1200x550.png",
           "alt": "Message for when you win the game "
         },
         {
-          "src": "/public/images/OOPGameLostGameMsg1200x550.png",
+          "src": "/static/images/OOPGameLostGameMsg1200x550.png",
           "alt": "Message for when you lose the game"
         }
       ],
       "main_image": {
-        "src": "/public/images/OOPGame550x350.png",
+        "src": "/static/images/OOPGame550x350.png",
         "alt": "Start of the Game App"
       }
     },
@@ -117,24 +117,24 @@
       "github_link": "https://github.com/JoelOgun/Awesome-Startup-Public-API-Project",
       "image_urls": [
         {
-          "src": "/public/images/StartupCompanyFranciscoInfo1200x550.png",
+          "src": "/static/images/StartupCompanyFranciscoInfo1200x550.png",
           "alt": "Picture of Francisco Info"
         },
         {
-          "src": "/public/images/StartupCompanyJessicaMooreInfo1200x550.png",
+          "src": "/static/images/StartupCompanyJessicaMooreInfo1200x550.png",
           "alt": "a photo of Jessica Info "
         },
         {
-          "src": "/public/images/StartupCompanyFiltering1200x550.png",
+          "src": "/static/images/StartupCompanyFiltering1200x550.png",
           "alt": "Searching for Employees with G in their name"
         },
         {
-          "src": "/public/images/StartupCompanyNoMatch1200x550.png",
+          "src": "/static/images/StartupCompanyNoMatch1200x550.png",
           "alt": "a photo when there is no match"
         }
       ],
       "main_image": {
-        "src": "/public/images/StartupCompanyMain550x350.png",
+        "src": "/static/images/StartupCompanyMain550x350.png",
         "alt": "a photo of the employees directory"
       }
     }
