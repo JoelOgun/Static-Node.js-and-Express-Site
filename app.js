@@ -1,8 +1,9 @@
 const express = require("express");
 const app = express();
-const port = 3000;
+const port = process.env.PORT || 3000;
 const { projects } = require("./data.json");
 const path = require("path");
+const { Http2ServerRequest } = require("http2");
 
 //Middleware
 app.set("view engine", "pug");
@@ -51,5 +52,5 @@ app.use((err, req, res, next) => {
 });
 
 app.listen(port, () => {
-  console.log("The application is listening on localhost:3000!");
+  console.log(`The application is listening on http://localhost:${port}.`);
 });
